@@ -136,4 +136,5 @@ def main(num_steps, input_file, output_file, trajectories_file, num_cores):
 
 
 if __name__ == "__main__":
+    # this main is very fast
     main()
